@@ -1,0 +1,1 @@
+// Congratulations! You have passed the TechKaro Admission Test
